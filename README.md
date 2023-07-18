@@ -1,3 +1,3 @@
 # Git Tutorial
-In this repository you will find important git commands that i used in A2SV camp learning phase
+I created this repository to practice git commands and the files in this repository are just demos 
 
